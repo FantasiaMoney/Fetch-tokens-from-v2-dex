@@ -1,0 +1,23 @@
+{
+  "name": "Fetch-tokens-from-v2-dex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FantasiaMoney/Fetch-tokens-from-v2-dex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FantasiaMoney/Fetch-tokens-from-v2-dex/issues"
+  },
+  "homepage": "https://github.com/FantasiaMoney/Fetch-tokens-from-v2-dex#readme",
+  "dependencies": {
+    "web3": "^1.7.0"
+  }
+}
